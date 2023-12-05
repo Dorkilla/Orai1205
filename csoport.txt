@@ -1,0 +1,4 @@
+Név/Évfolyam/Átlag
+Gipsz Jakab/1/4,5
+Pán Péter/2/3,6
+Kocsi Dorottya/1/5,0
